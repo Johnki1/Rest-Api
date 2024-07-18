@@ -127,10 +127,6 @@ git push origin nueva-funcionalidad
 
 5. **Abre un Pull Request**
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
-
 ## Contacto
 
 Para cualquier duda o consulta, puedes contactarme a través de:
